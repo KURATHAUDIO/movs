@@ -6,6 +6,7 @@
 pub mod error;
 pub mod types;
 pub mod hash;
+pub mod metadata;
 
 // Public exports
 pub use error::{MovsError, Result};
